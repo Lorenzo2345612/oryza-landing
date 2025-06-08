@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="100mm"
+   height="80mm"
+   viewBox="0 0 100 80"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.4.2 (ebf0e94, 2025-05-08)"
+   sodipodi:docname="logo_nombre_abajo.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.3095539"
+     inkscape:cx="392.50008"
+     inkscape:cy="111.87016"
+     inkscape:window-width="1920"
+     inkscape:window-height="974"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.566585;stroke-dasharray:0.566585, 0.566585"
+       d="M 11.950623,58.128117 43.89864,11.57258 72.712166,58.158219 Z"
+       id="path1" />
+    <path
+       style="fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.509938;stroke-dasharray:0.509938, 0.509938"
+       d="M 22.410234,58.437608 50.361385,15.381078 75.610889,58.493385 Z"
+       id="path1-2" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.588741;stroke-dasharray:none"
+       d="M 29.123877,58.279643 60.367152,7.0007314 88.645745,58.381876 Z"
+       id="path1-1" />
+    <text
+       xml:space="preserve"
+       style="font-size:17.8597px;font-family:Pristina;-inkscape-font-specification:Pristina;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-width:0.233793;stroke-dasharray:none"
+       x="10.700674"
+       y="88.40332"
+       id="text1"
+       transform="matrix(1.1974302,0.00954048,-0.00665337,0.83506875,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:17.8597px;font-family:Sans;-inkscape-font-specification:Sans;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.233793;stroke-opacity:1"
+         x="10.700674"
+         y="88.40332">ORYZA</tspan></text>
+  </g>
+</svg>
